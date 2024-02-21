@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url(../font/roboto/Roboto-Regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Inter';
+    src: url(..//font/inter/Inter-Regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Inter';
+    src: url(../font/inter/Inter-Bold.ttf);
+    font-weight: 700;
+}
